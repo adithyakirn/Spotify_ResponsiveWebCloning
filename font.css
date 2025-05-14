@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Bold';
+    src: url(/Assets/Bold.woff2) format('woff2'),
+}
+@font-face {
+    font-family: 'Regular';
+    src: url(/Assets/Regular.woff2) format('woff2'),
+}
+@font-face {
+    font-family: 'Medium';
+    src: url(/Assets/Medium.woff2) format('woff2'),
+}
