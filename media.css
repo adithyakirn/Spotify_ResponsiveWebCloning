@@ -465,6 +465,7 @@
     border-radius: 8px;
     margin-left: -5px;
     min-width: 1020px;
+    height: 100vh;
   }
   .shadow{
     box-shadow: inset 100px 0 80px -60px rgba(0, 0, 0, 0.699), 
